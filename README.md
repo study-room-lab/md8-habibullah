@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 I am a **Full-Stack Developer, DevOps Engineer,** and **Computer Science student** at Northern University Bangladesh.
 
@@ -22,7 +22,7 @@ I specialize in building **secure, scalable web applications** with a core focus
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### Core Tech Stack & Tools
 
 I thrive in open-source environments and am proficient across the entire software development lifecycle, from frontend development to cloud orchestration.
 
@@ -50,7 +50,7 @@ I thrive in open-source environments and am proficient across the entire softwar
 
 ---
 
-### 💡 Select Areas of Expertise
+### Select Areas of Expertise
 
 Here are examples of my core competencies, demonstrating a blend of full-stack and infrastructure skills:
 
@@ -64,17 +64,16 @@ Here are examples of my core competencies, demonstrating a blend of full-stack a
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
 
 | Role | Organization | Type | Period |
 | :--- | :--- | :--- | :--- |
 | **Web Developer & Security Specialist** | Neurootix | Part-time | Aug 2025 - Present |
-| **Full Stack Development Intern** | CodeAlpha | Internship | Nov 2025 - Jan 2026 |
 | **Assistant Robotics Secretary** | NUB Computer Club | Part-time | Jul 2025 - Present |
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 I am open to collaborations and exciting opportunities. Feel free to connect or drop me an email!
 
@@ -98,6 +97,6 @@ I am open to collaborations and exciting opportunities. Feel free to connect or 
 
 ---
 
-### ✨ Fun Fact
+### Fun Fact
 
 I'm naturally calm, but I light up when it comes to Linux, writing code, or diving into deep topics. My happy place? A dark terminal, a cup of tea, and Qur'an recitation in the background.
