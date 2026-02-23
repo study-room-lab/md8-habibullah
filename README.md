@@ -1,4 +1,4 @@
-# Full-Stack & DevOps Engineer
+# Full-Stack Engineer | DevOps & Security Specialist
 
 <div align="center">
   <a href="https://github.com/md8-habibullah">
@@ -10,34 +10,30 @@
 
 ### About Me
 
-I am a **Full-Stack Developer, DevOps Engineer,** and **Computer Science student** at Northern University Bangladesh.
+I am a **Full-Stack Developer, DevOps Engineer,** and **Computer Science student** at Northern University Bangladesh. 
 
-I specialize in building **secure, scalable web applications** with a core focus on **security and automation**. My philosophy is centered on engineering clean, maintainable code and developing robust infrastructure that scales effortlessly.
+I specialize in building **secure, scalable web applications** with a heavy focus on **backend architecture and cloud automation**. My philosophy is centered on engineering clean, maintainable code and developing robust, production-ready infrastructure that scales effortlessly.
 
 | Focus Area | Description |
 | :--- | :--- |
-| **Primary Expertise** | Modern Full-Stack Development (Next.js, React, Node.js) and Production DevOps (Docker, CI/CD, IaC). |
+| **Primary Expertise** | Backend Architecture (Node.js, PostgreSQL, Python), Production DevOps (Docker, CI/CD, IaC), and Modern Frontend (TypeScript, Next.js). |
 | **Mindset** | Security-First Approach, Infrastructure as Code, Clean Architecture. |
-| **Stats** | 50+ Open Source Contributions, 3+ Years of Experience. |
+| **Stats** | 50+ Open Source Contributions, 5+ Years of Experience with Linux. |
 
 ---
 
 ### Core Tech Stack & Tools
 
-I thrive in open-source environments and am proficient across the entire software development lifecycle, from frontend development to cloud orchestration.
+I thrive in open-source environments and am proficient across the entire software development lifecycle, prioritizing deep infrastructure and backend performance.
 
-#### Languages & Frameworks
+#### ⚙️ Backend & Databases
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 </p>
 
-#### DevOps & Cloud Ecosystem
+#### ☁️ DevOps & Cloud Ecosystem
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
@@ -48,28 +44,27 @@ I thrive in open-source environments and am proficient across the entire softwar
   <a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
 </p>
 
+#### 💻 Frontend Architecture
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
+
 ---
 
 ### Select Areas of Expertise
 
-Here are examples of my core competencies, demonstrating a blend of full-stack and infrastructure skills:
+Here are examples of my core competencies, demonstrating a blend of high-performance backend and infrastructure skills:
 
 | Expertise Area | Key Technologies & Focus |
 | :--- | :--- |
-| **Secure Full-Stack Solutions** | Building systems with end-to-end encryption, JWT authentication, role-based access control, and SQL injection prevention (Node.js, React, PostgreSQL). |
 | **CI/CD Automation** | Designing enterprise-grade pipelines using **Docker** and **GitHub Actions** for automated testing and multi-environment deployments. |
 | **Infrastructure as Code (IaC)** | Automating **AWS** infrastructure setup using **Terraform** for version control, resource provisioning, and disaster recovery. |
-| **Real-Time Data** | Implementing WebSocket-based applications with **Socket.IO** for live data streaming and metric visualization (Real-Time Monitoring Dashboard). |
+| **Secure Full-Stack Solutions** | Building systems with end-to-end encryption, JWT authentication, role-based access control, and SQL injection prevention (Node.js, PostgreSQL). |
 | **Container Orchestration** | Deploying scalable, fault-tolerant applications using **Kubernetes** for auto-scaling and resource optimization. |
-
----
-
-### Experience Highlights
-
-| Role | Organization | Type | Period |
-| :--- | :--- | :--- | :--- |
-| **Web Developer & Security Specialist** | Neurootix | Part-time | Aug 2025 - Present |
-| **Assistant Robotics Secretary** | NUB Computer Club | Part-time | Jul 2025 - Present |
+| **Real-Time Data** | Implementing WebSocket-based applications with **Socket.IO** for live data streaming and metric visualization. |
 
 ---
 
