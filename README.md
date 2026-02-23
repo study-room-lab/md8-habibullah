@@ -94,6 +94,6 @@ I am open to collaborations and exciting opportunities. Feel free to connect or 
 
 ---
 
-### Fun Fact
+### A's Fact < iggf bdh < C|name_
 
 I'm naturally calm, but I light up when it comes to Linux, writing code, or diving into deep topics. My happy place? A dark terminal, a cup of tea, and Qur'an recitation in the background.
